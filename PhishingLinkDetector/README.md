@@ -54,9 +54,9 @@ python DetectPhishing.py http://malicious.example.com phishing_report.json
 5. **VirtualBox Execution**: Starts the VirtualBox VM, automates login, and opens the URL for dynamic analysis.
 
 ## Output
-**Output File**:
-Contains the VirusTotal scan results and WHOIS data in JSON format.\n
-**Log File**:
+- **Output File**:
+Contains the VirusTotal scan results and WHOIS data in JSON format.
+- **Log File**:
 Logs activity and errors in DetectPhishingScanner.log.
 
 ## Example Log Output
