@@ -33,6 +33,7 @@ VM_PASSWORD=<Your VM Password>
 - **VirtualBox**: Ensure VirtualBox is installed and the VM is configured correctly for automated login and analysis.
 - **Firefox**: The browser must be installed in the VM for dynamic URL analysis.
 - **VBoxManage**: VirtualBox must accept command-line VBoxManage commands.
+- **Terminal AutoStart Upon Login**: This can be done by clicking application (on top left) > searching Sessions and Startup > Application AutoStart > add > Name: Terminal, Command: xfce4-terminal > OK (to save changes)
 
 ## Usage
 Run the script using the following command:
