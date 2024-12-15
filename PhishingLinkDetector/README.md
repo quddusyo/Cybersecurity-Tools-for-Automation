@@ -55,7 +55,7 @@ python DetectPhishing.py http://malicious.example.com phishing_report.json
 
 ## Output
 **Output File**:
-Contains the VirusTotal scan results and WHOIS data in JSON format.
+Contains the VirusTotal scan results and WHOIS data in JSON format.\n
 **Log File**:
 Logs activity and errors in DetectPhishingScanner.log.
 
