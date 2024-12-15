@@ -4,7 +4,7 @@
 **Yousuf A. Quddus**
 
 ## Description  
-`DetectPhishing.py` is a Python script designed to analyze URLs for phishing activity. It integrates with the **VirusTotal API** to perform URL scans, fetch WHOIS information, and log the results. Additionally, it utilizes **VirtualBox** for sandboxed URL execution, allowing for dynamic analysis using user-specified tools. Logs are generated to ensure transparency and traceability.
+`DetectPhishing.py` is a Python script designed to analyze URLs for phishing activity. It integrates with the **VirusTotal API** to perform URL scans, fetch WHOIS information, and log the results. Additionally, it utilizes **VirtualBox** for sandboxed URL execution, allowing for dynamic analysis using user-specified tools. Logs are generated to ensure transparency and integrity.
 
 ## Features  
 - **URL Scanning**: Leverages VirusTotal's URL Scan API to evaluate potential phishing threats.  
