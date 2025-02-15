@@ -2,7 +2,7 @@
 A collection of custom cybersecurity tools, scripts, and projects in python.
 ---
 
-UPDATED README COMING SOON!
+Further Updates will be soon available.
 
 ## Features
 - ✨ Feature 1
