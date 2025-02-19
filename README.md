@@ -4,10 +4,10 @@ A collection of custom cybersecurity tools, scripts, and projects in python.
 
 Further Updates will be soon available.
 
-## Features
-- ✨ Feature 1
-- 🔐 Feature 2
-- 🌟 Feature 3
+## Repositories
+- ✨ Attacks, LinuxScripts, MalwareAnalysisScript, Monitoring&Backup, Scapy, WindowsScripts
+- 🔐 PhishingLinkDetector
+- 🌟 Phishing Simulator
 
 ---
 
