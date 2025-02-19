@@ -1,5 +1,6 @@
 # Cybersecurity-Tools-for-Automation
-A collection of custom cybersecurity tools, scripts, and projects in python.
+A collection of my custom cybersecurity tools, scripts, and projects in python.
+Some repositories include a README within the project scope.
 ---
 
 Further Updates will be soon available.
