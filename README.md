@@ -8,7 +8,7 @@ Further Updates will be soon available.
 ## Repositories
 - ✨ Attacks, LinuxScripts, MalwareAnalysisScript, Monitoring&Backup, Scapy, WindowsScripts
 - 🔐 PhishingLinkDetector
-- 🌟 Phishing Simulator
+- 🌟 TargetPhish (Phihing Simulator)
 
 ---
 
