@@ -3,8 +3,6 @@ A collection of my custom cybersecurity tools, scripts, and projects in python.
 Some repositories include a README within the project scope.
 ---
 
-Further Updates will be soon available.
-
 ## Repositories
 - ✨ Attacks, LinuxScripts, MalwareAnalysisScript, Monitoring&Backup, Scapy, WindowsScripts
 - 🔐 PhishingLinkDetector
@@ -30,3 +28,4 @@ Steps to install and set up your project locally:
 1. Clone the repository:
    ```bash
    git clone https://github.com/quddusyo/Cybersecurity-Tools-for-Automation.git
+   '''
