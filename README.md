@@ -5,7 +5,7 @@ Automated Scripts for Common Cybersecurity Practices
 ## Repositories
 - ✨ Attacks, LinuxScripts, MalwareAnalysisScript, Monitoring&Backup, Scapy, WindowsScripts
 - 🔐 PhishingLinkDetector
-- 🌟 TargetPhish (Phishing Simulator)
+- 🌟 TarGet-Phish | KillPhish
 
 ---
 
@@ -24,12 +24,36 @@ in the beginning of the script.
 
 ---
 
+## Features
+Script:PhishingLinkDetector
+Features:
+- **URL Scanning**: Leverages VirusTotal's URL Scan API to evaluate potential phishing threats.
+- **WHOIS Lookup**: Retrieves WHOIS information for the given URL domain.
+- **Sandbox Execution**: Automatically executes URLs in a VirtualBox virtual machine for further analysis.
+- **Logging**: Maintains a log file `DetectPhishingScanner.log` for error and usage tracking.
+
+Script: TarGet-Phish
+Features:
+- **Register / Login page**: Used OAuth for seamless login and registration.
+- **User Dashboard**: Beautiful UI for a professional experience. 
+- **Phishing Email Simulator**: Write up an email template and send to employees in the company, allows sender to spoof email address of choice for a more realistic experience.
+- **Phishing Gamified Training Simulator**: Prompts users emails and the user clicks 'malicious' or 'safe' alongside a detailed explanation.
+
+---
+
 ## Installation
 Steps to install and set up your project locally:
 
 1. Clone the Repository:
    ```bash
    git clone https://github.com/quddusyo/Cybersecurity-Tools-for-Automation.git
+
+2. Download Dependancies:
+   ```bash
+   npm install
+
+3. To Run App:
+   Check specific script for useage details on README or within the code comments.
 
 ---
 
