@@ -32,7 +32,7 @@ Features:
 - **Sandbox Execution**: Automatically executes URLs in a VirtualBox virtual machine for further analysis.
 - **Logging**: Maintains a log file `DetectPhishingScanner.log` for error and usage tracking.
 
-Script: TarGet-Phish
+Script: KillPhish
 Features:
 - **Register / Login page**: Used OAuth for seamless login and registration.
 - **User Dashboard**: Beautiful UI for a professional experience. 
