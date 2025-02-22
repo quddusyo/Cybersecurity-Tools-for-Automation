@@ -15,7 +15,7 @@
 ## Requirements  
 
 ### Python Modules  
-Install the required modules using the following command:  
+Install the required modules using the following use command:  
 ```bash
 pip install requests python-dotenv
 ```
