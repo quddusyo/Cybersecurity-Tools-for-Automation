@@ -45,7 +45,7 @@ Features:
 ---
 
 ## Installation
-Steps to install and set up your project locally:
+Steps to install and set up enironment to your project locally:
 
 1. Clone the Repository:
    ```bash
