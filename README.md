@@ -1,11 +1,12 @@
-# Cybersecurity-Tools-for-Automation
+# Welcome to my Cybersecurity Tools for Automation Repo!
+Author: Yousuf Quddus
 Automated Scripts for Common Cybersecurity Practices
 ---
 
 ## Repositories
-- ✨ Attacks, LinuxScripts, MalwareAnalysisScript, Monitoring&Backup, Scapy, WindowsScripts
-- 🔐 PhishingLinkDetector
-- 🌟 TarGet-Phish | KillPhish
+- 📜 Attacks, LinuxScripts, MalwareAnalysisScript, Monitoring&Backup, Scapy, WindowsScripts
+- 🔒 PhishingLinkDetector
+- 🎣 KillPhish
 
 ---
 
