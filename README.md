@@ -1,4 +1,5 @@
-# Welcome to my Cybersecurity Tools for Automation Repo!<br/><br/><br/>  
+# Welcome to my Cybersecurity Tools for Automation Repo!<br/>
+**Author: Yousuf Quddus<br/>
 Automated Scripts for Common Cybersecurity Practices
 ---
 
@@ -13,7 +14,7 @@ Automated Scripts for Common Cybersecurity Practices
 - [Introduction](#introduction)
 - [Features](#features)
 - [Installation](#installation)
-- [Introduction](#disclaimer)
+- [Disclaimer](#disclaimer)
 
 ---
 
@@ -24,13 +25,13 @@ in the beginning of the script.
 
 ---
 
-## Features
+## Features<br/><br/>
 Script:PhishingLinkDetector
 Features:
 - **URL Scanning**: Leverages VirusTotal's URL Scan API to evaluate potential phishing threats.
 - **WHOIS Lookup**: Retrieves WHOIS information for the given URL domain.
 - **Sandbox Execution**: Automatically executes URLs in a VirtualBox virtual machine for further analysis.
-- **Logging**: Maintains a log file `DetectPhishingScanner.log` for error and usage tracking.
+- **Logging**: Maintains a log file `DetectPhishingScanner.log` for error and usage tracking.<br/>
 
 Script: KillPhish
 Features:
