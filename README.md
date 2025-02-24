@@ -54,8 +54,8 @@ Steps to install and set up your project locally:
    ```bash
    npm install
 
-3. To Run App:
-   Check specific script for useage details on README or within the code comments.
+3. Run App:
+   Check specific script for a detailed useage on the README section or within the code comments.
 
 ---
 
