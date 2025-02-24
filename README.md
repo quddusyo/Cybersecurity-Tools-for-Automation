@@ -1,5 +1,6 @@
 # Welcome to my Cybersecurity Tools for Automation Repo!
-**Author: Yousuf Quddus**<br/>
+**Author: Yousuf Quddus**
+<br/>
 Automated Scripts for Common Cybersecurity Practices
 ---
 
@@ -25,7 +26,7 @@ in the beginning of the script.
 
 ---
 
-## Features<br/><br/>
+## Features
 Script:PhishingLinkDetector
 Features:
 - **URL Scanning**: Leverages VirusTotal's URL Scan API to evaluate potential phishing threats.
