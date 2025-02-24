@@ -21,20 +21,20 @@ Automated Scripts for Common Cybersecurity Practices
 
 ## Introduction
 A collection of my custom cybersecurity tools, scripts, and projects in (mostly) python.
-Some repositories include a README within the project scope while others include usage information 
+Some repositories include a `README` within the project scope while others include usage information 
 in the beginning of the script.
 
 ---
 
 ## Features
-Script:PhishingLinkDetector
+Script: `PhishingLinkDetector`
 Features:
 - **URL Scanning**: Leverages VirusTotal's URL Scan API to evaluate potential phishing threats.
 - **WHOIS Lookup**: Retrieves WHOIS information for the given URL domain.
 - **Sandbox Execution**: Automatically executes URLs in a VirtualBox virtual machine for further analysis.
 - **Logging**: Maintains a log file `DetectPhishingScanner.log` for error and usage tracking.<br/><br/>
 
-Script: KillPhish
+Script: `KillPhish`
 Features:
 - **Register / Login page**: Used OAuth for seamless login and registration.
 - **User Dashboard**: Beautiful UI for a professional experience. 
@@ -56,7 +56,7 @@ Steps to install and set up your project locally:
    npm install
 
 3. Run App:
-   Check specific script for a detailed useage on the README section or within the code comments.
+   Check specific script for a detailed useage on the `README` section or within the code comments.
 
 ---
 
