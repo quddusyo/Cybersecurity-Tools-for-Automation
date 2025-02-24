@@ -1,5 +1,5 @@
 # Welcome to my Cybersecurity Tools for Automation Repo!
-**Author: Yousuf Quddus<br/>
+**Author: Yousuf Quddus**<br/>
 Automated Scripts for Common Cybersecurity Practices
 ---
 
