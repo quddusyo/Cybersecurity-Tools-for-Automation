@@ -36,7 +36,7 @@ Features:
 
 Script: `KillPhish`
 Features:
-- **Register / Login page**: Used OAuth for seamless login and registration.
+- **Login**: Used Auth0 for seamless login.
 - **User Dashboard**: Beautiful UI for a professional experience. 
 - **Phishing Email Simulator**: Write up an email template and send to employees in the company, allows sender to spoof email address of choice for a more realistic experience.
 - **Phishing Gamified Training Simulator**: Prompts users emails and the user clicks 'malicious' or 'safe' alongside a detailed explanation.
