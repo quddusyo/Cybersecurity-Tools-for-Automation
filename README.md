@@ -1,5 +1,5 @@
 # Welcome to my Cybersecurity Tools for Automation Repo!
-**Author: Yousuf Quddus**
+**Author: Yousuf Quddus**<br/>
 <br/>
 Automated Scripts for Common Cybersecurity Practices
 ---
@@ -36,7 +36,7 @@ Features:
 
 Script: `KillPhish`
 Features:
-- **Login**: Used Auth0 for seamless login.
+- **Login**: Implements Auth0 for a seamless login process.
 - **User Dashboard**: Beautiful UI for a professional experience. 
 - **Phishing Email Simulator**: Write up an email template and send to employees in the company, allows sender to spoof email address of choice for a more realistic experience.
 - **Phishing Gamified Training Simulator**: Prompts users emails and the user clicks 'malicious' or 'safe' alongside a detailed explanation.
@@ -45,7 +45,7 @@ Features:
 ---
 
 ## Installation
-Steps to install and set up enironment to your project locally:
+Steps to install and set up environment to your project locally:
 
 1. Clone the Repository:
    ```bash
