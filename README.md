@@ -51,7 +51,7 @@ Steps to install and set up environment to your project locally:
    ```bash
    git clone https://github.com/quddusyo/Cybersecurity-Tools-for-Automation.git
 
-2. Download Dependancies:
+2. Download Dependancies go to project folder and run:
    ```bash
    npm install
 
