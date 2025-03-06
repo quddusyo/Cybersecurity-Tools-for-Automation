@@ -27,14 +27,14 @@ in the beginning of the script.
 ---
 
 ## Features
-Script: `PhishingLinkDetector`
+Script: `PhishingLinkDetector` Public Repo
 Features:
 - **URL Scanning**: Leverages VirusTotal's URL Scan API to evaluate potential phishing threats.
 - **WHOIS Lookup**: Retrieves WHOIS information for the given URL domain.
 - **Sandbox Execution**: Automatically executes URLs in a VirtualBox virtual machine for further analysis.
 - **Logging**: Maintains a log file `DetectPhishingScanner.log` for error and usage tracking.<br/><br/>
 
-Script: `KillPhish`
+Script: `KillPhish` Private Repo
 Features:
 - **Login**: Implements Auth0 for a seamless login process.
 - **User Dashboard**: Beautiful UI for a professional experience. 
