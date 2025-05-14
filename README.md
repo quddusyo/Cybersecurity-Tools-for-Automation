@@ -7,8 +7,6 @@ Automated Scripts for Common Cybersecurity Practices
 ## Repositories
 - 📜 Attacks, LinuxScripts, MalwareAnalysisScript, Monitoring&Backup, Scapy, WindowsScripts, Key Management Application
 - 🔒 `PhishingLinkDetector`
-- 🎣 `KillPhish`
-
 ---
 
 ## Table of Contents
