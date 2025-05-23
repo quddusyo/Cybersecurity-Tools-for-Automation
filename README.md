@@ -50,7 +50,7 @@ Steps to install and set up environment to your project locally:
 
 ---
 
-## Disclaimer
+## DISCLAIMER NOTE
 These scripts are provided for educational and research purposes only. They were designed to demonstrate cybersecurity automation techniques and is not intended for use in any unauthorized, illegal, or unethical activities. The author does not condone or support any malicious use of this script or any related tools.
 
 By using this script, you acknowledge that it is your responsibility to ensure that its use complies with all applicable laws and regulations. The author(s) assume no liability for any damage or consequences resulting from the use of this script.
