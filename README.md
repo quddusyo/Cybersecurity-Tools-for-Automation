@@ -1,7 +1,7 @@
-# Welcome to my Cybersecurity Tools for Automation Repo!
+# Cybersecurity Tools for Automation
 **Author: Quddusyo**<br/>
 <br/>
-Automated Scripts for Common Cybersecurity Practices
+Collection of my Projects including Automated Scripts in Cybersecurity
 ---
 
 ## Repositories
