@@ -1,7 +1,7 @@
 # Cybersecurity Tools for Automation
 **Author: Quddusyo**<br/>
 <br/>
-Collection of my Projects in Cybersecurity
+Collection of my mini projects in Cybersecurity
 ---
 
 ## Repositories
