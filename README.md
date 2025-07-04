@@ -5,8 +5,8 @@ Collection of my projects in Cybersecurity
 ---
 
 ## Repositories
-- 📜 Attacks, LinuxScripts, MalwareAnalysisScript, Monitoring&Backup, Scapy, WindowsScripts, Key Management Application
-- 🔒 `PhishingLinkDetector`
+- Attacks, LinuxScripts, MalwareAnalysisScript, Monitoring&Backup, Scapy, WindowsScripts, Key Management Application
+- `PhishingLinkDetector`
 ---
 
 ## Table of Contents
